@@ -14,6 +14,7 @@ class Vehicle:
         self.gps = True
         print("GPS enabled")
         
+
 car1 = Vehicle("Audi", "Black")
 car1.gps_on()
 car1.info()
