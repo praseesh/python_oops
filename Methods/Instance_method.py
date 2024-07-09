@@ -8,6 +8,7 @@ class Vehicle:
         print(f"Make: {self.make}\nColor: {self.color}\nGPS: {self.gps}")
 
 
+
     def  gps_on(self):         #   Setter method 
         self.gps = True
         print("GPS enabled")
