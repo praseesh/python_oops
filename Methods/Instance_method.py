@@ -10,6 +10,7 @@ class Vehicle:
 
 
 
+
     def  gps_on(self):         #   Setter method 
         self.gps = True
         print("GPS enabled")
