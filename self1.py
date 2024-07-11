@@ -12,6 +12,7 @@ class Sum:
 
 
 
+
 obj = Sum()
 obj.display()
 obj.write()
