@@ -8,11 +8,6 @@ class Sum:
         print(self.s)
         
 
-
-
-
-
-
 obj = Sum()
 obj.display()
 obj.write()
