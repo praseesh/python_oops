@@ -15,9 +15,6 @@ author = "Carl Sagan"
 book2 = Book()
 book2.info()
 
-# book2.name = "Cosmos"
-# book2.author = "Carl Sagan"
-
 
 class Car:
     def __init__(self, make, model):
