@@ -17,3 +17,12 @@ book2.info()
 
 # book2.name = "Cosmos"
 # book2.author = "Carl Sagan"
+
+
+class Car:
+    def __init__(self, make, model):
+        self.make = make
+        self.model = model
+    
+    def display(self):
+        print(f"Car make: {self.make}, model: {self.model}")
