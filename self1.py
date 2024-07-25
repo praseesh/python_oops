@@ -6,9 +6,6 @@ class Sum:
         print(self.s)
     def display(self):
         print(self.s)
-        
-
-
 
 obj = Sum()
 obj.display()
